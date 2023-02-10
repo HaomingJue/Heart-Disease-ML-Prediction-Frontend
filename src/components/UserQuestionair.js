@@ -99,7 +99,7 @@ export default function UserQuestionair() {
                         <MenuItem value={'GBT'}>GBT</MenuItem>
                         <MenuItem value={'DecisionTree'}>DecisionTree</MenuItem>
                         <MenuItem value={'KNN'}>KNN</MenuItem>
-                        <MenuItem value={'NaiveBayes'}>NN</MenuItem>
+                        <MenuItem value={'NaiveBayes'}>NaiveBayes</MenuItem>
                         <MenuItem value={'SVMLinear'}>SVMLinear</MenuItem>
                         <MenuItem value={'SVMRBF'}>SVMRBF</MenuItem>
                         <MenuItem value={'NN'}>NN</MenuItem>
